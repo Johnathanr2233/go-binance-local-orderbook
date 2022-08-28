@@ -9,9 +9,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/jon4hz/go-binance-local-orderbook/alerting"
-	"github.com/jon4hz/go-binance-local-orderbook/database"
-	"github.com/jon4hz/go-binance-local-orderbook/exchange"
+	"github.com/Johnathanr2233/go-binance-local-orderbook/alerting"
+	"github.com/Johnathanr2233/go-binance-local-orderbook/database"
+	"github.com/Johnathanr2233/go-binance-local-orderbook/exchange"
 	"github.com/spf13/viper"
 )
 
